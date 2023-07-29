@@ -1,6 +1,4 @@
-# Ibi-group-online-test
 
-Sure, here's a README.md file with answers to all your questions:
 
 # Q1. Differences between Cookie, Local Storage, and Session Storage
 
